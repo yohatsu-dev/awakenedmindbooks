@@ -525,13 +525,10 @@ body.menu-open { overflow: hidden; }
   font-weight: 300;
   font-size: clamp(0.95rem, 1.2vw, 1.15rem);
   color: var(--text-secondary);
-  max-width: 64ch;
+  max-width: 820px;
   margin: 0 auto;
-  line-height: 1.65;
-}
-
-.hero-sub-break {
-  display: inline;
+  line-height: 1.6;
+  text-wrap: balance;
 }
 
 /* Hero mini covers */
