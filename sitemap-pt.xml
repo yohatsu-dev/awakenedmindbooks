@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/tara/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/tara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/tara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/tara/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/avalokiteshvara/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/avalokiteshvara/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/manjushri/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/manjushri/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/vajrasattva/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/vajrasattva/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/vajrapani/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/vajrapani/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/parar-de-pensar-demais/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/stop-overthinking/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/parar-de-pensar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/stop-overthinking/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/livros/karma/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/karma/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/karma/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/karma/"/>
+  </url>
+  <url>
+    <loc>https://awakenedmindbooks.com/pt/autor/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/author/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/autor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/author/"/>
+  </url>
+</urlset>

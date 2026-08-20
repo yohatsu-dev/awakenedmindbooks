@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Bots de IA e buscadores generativos — liberados
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://mentedesperta.com/sitemap.xml

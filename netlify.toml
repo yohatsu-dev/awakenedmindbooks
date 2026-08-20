@@ -1,0 +1,90 @@
+# Mente Desperta — configuração de deploy (Netlify)
+# Só define cabeçalhos de cache e segurança. Não altera build nem conteúdo.
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Capas e favicon: os nomes de arquivo são fixos (buddha-pt.jpg troca de conteúdo
+# sem trocar de nome), então NÃO pode haver cache imutável de longa duração —
+# o navegador do leitor ficaria preso na capa antiga por meses.
+# 1 hora + revalidação por ETag: visita repetida na mesma sessão não refaz o
+# download, e uma capa nova aparece em no máximo uma hora.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/styles.css"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/script.js"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# HSTS: o Lighthouse cobra e e higiene basica de HTTPS.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+# Redirecionamentos de migração de rotas antigas
+[[redirects]]
+  from = "/en"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/books/*"
+  to = "/books/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/topics/*"
+  to = "/topics/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/glossary/*"
+  to = "/glossary/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/author/"
+  to = "/author/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/review/"
+  to = "/review/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/autor.html"
+  to = "/pt/autor/"
+  status = 301
+  force = true
