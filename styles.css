@@ -1407,8 +1407,49 @@ body.menu-open { overflow: hidden; }
 }
 
 .author-content {
-  max-width: 65ch;
+  max-width: 72rem;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+@media (min-width: 768px) {
+  .author-content {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 3rem;
+  }
+}
+
+.author-photo-wrapper {
+  flex-shrink: 0;
+}
+
+.author-photo {
+  width: 220px;
+  height: auto;
+  border-radius: 6px;
+  filter: grayscale(15%);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+}
+
+@media (min-width: 768px) {
+  .author-photo {
+    width: 260px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .author-photo {
+    width: 300px;
+  }
+}
+
+.author-bio-content {
+  flex: 1;
+  min-width: 0;
 }
 
 .author-name {
@@ -1419,6 +1460,12 @@ body.menu-open { overflow: hidden; }
   letter-spacing: 0.06em;
   margin-bottom: 1.25rem;
   text-align: center;
+}
+
+@media (min-width: 768px) {
+  .author-name {
+    text-align: left;
+  }
 }
 
 .author-bio {
