@@ -2,73 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://awakenedmindbooks.com/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/"/>
+    <loc>https://www.awakenedmindbooks.com/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/"/>
+    <loc>https://www.awakenedmindbooks.com/author/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/author/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/autor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/author/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/tara/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/tara/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/tara/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/tara/"/>
+    <loc>https://www.awakenedmindbooks.com/books/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/avalokiteshvara/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/avalokiteshvara/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/avalokiteshvara/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/avalokiteshvara/"/>
+    <loc>https://www.awakenedmindbooks.com/books/avalokiteshvara/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/avalokiteshvara/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/manjushri/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/manjushri/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/manjushri/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/manjushri/"/>
+    <loc>https://www.awakenedmindbooks.com/books/karma/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/karma/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/karma/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/karma/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/vajrasattva/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/vajrasattva/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/vajrasattva/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/vajrasattva/"/>
+    <loc>https://www.awakenedmindbooks.com/books/manjushri/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/manjushri/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/vajrapani/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/vajrapani/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/vajrapani/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/vajrapani/"/>
+    <loc>https://www.awakenedmindbooks.com/books/stop-overthinking/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/stop-overthinking/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/parar-de-pensar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/stop-overthinking/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/stop-overthinking/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/stop-overthinking/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/parar-de-pensar-demais/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/stop-overthinking/"/>
+    <loc>https://www.awakenedmindbooks.com/books/tara/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/tara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/tara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/tara/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/books/karma/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/books/karma/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/livros/karma/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/books/karma/"/>
+    <loc>https://www.awakenedmindbooks.com/books/vajrapani/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/vajrapani/"/>
   </url>
   <url>
-    <loc>https://awakenedmindbooks.com/author/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakenedmindbooks.com/author/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakenedmindbooks.com/pt/autor/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakenedmindbooks.com/author/"/>
+    <loc>https://www.awakenedmindbooks.com/books/vajrasattva/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/books/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/livros/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/books/vajrasattva/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/avalokiteshvara/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/avalokiteshvara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/avalokiteshvara/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/bodhisattva/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/bodhisattva/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/bodhisattva/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/bodhisattva/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/hundred-syllable-mantra/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/hundred-syllable-mantra/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/mantra-das-cem-silabas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/hundred-syllable-mantra/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/karma/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/karma/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/karma/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/karma/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/kshitigarbha/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/kshitigarbha/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/kshitigarbha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/kshitigarbha/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/manjushri/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/manjushri/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/manjushri/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/om-mani-padme-hum-mantra/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/om-mani-padme-hum-mantra/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/mantra-om-mani-padme-hum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/om-mani-padme-hum-mantra/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/om-tare-tuttare-ture-soha-mantra/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/om-tare-tuttare-ture-soha-mantra/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/om-tare-tuttare-ture-soha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/om-tare-tuttare-ture-soha-mantra/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/tara/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/tara/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/tara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/tara/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/vajrapani/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/vajrapani/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/vajrapani/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/glossary/vajrasattva/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/glossary/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/glossario/vajrasattva/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/glossary/vajrasattva/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/review/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/review/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/avalie/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/review/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/anger/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/anger/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/raiva/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/anger/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/anxiety/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/anxiety/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/ansiedade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/anxiety/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/emotional-attachment/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/emotional-attachment/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/apego-emocional/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/emotional-attachment/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/fear/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/fear/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/medo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/fear/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/grief/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/grief/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/luto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/grief/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/guilt/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/guilt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/culpa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/guilt/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/karma/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/karma/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/karma/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/karma/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/mental-confusion/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/mental-confusion/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/confusao-mental/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/mental-confusion/"/>
+  </url>
+  <url>
+    <loc>https://www.awakenedmindbooks.com/topics/overthinking/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.awakenedmindbooks.com/topics/overthinking/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.awakenedmindbooks.com/pt/temas/overthinking/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.awakenedmindbooks.com/topics/overthinking/"/>
   </url>
 </urlset>

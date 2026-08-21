@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://mentedesperta.com/sitemap.xml
+Sitemap: https://www.awakenedmindbooks.com/sitemap.xml
