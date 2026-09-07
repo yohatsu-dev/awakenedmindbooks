@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# Bots de IA e buscadores generativos — liberados
+# AI and generative search crawlers — allowed
 User-agent: GPTBot
 Allow: /
 
@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://www.awakenedmindbooks.com/pt/sitemap.xml
+Sitemap: https://www.awakenedmindbooks.com/sitemap.xml
