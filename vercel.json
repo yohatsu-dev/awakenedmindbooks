@@ -4,6 +4,27 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "awakenedmindbooks.com"
+        }
+      ],
+      "destination": "https://www.awakenedmindbooks.com/:path",
+      "permanent": true
+    },
+    {
+      "source": "/en",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/:path(.*)",
+      "destination": "/:path",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "destination": "/",
       "permanent": true
