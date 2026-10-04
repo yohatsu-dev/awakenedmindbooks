@@ -28,3 +28,18 @@
     });
   });
 })();
+
+/* Mobile buy bar on book pages: shown while no buy-button block is on screen. */
+(function(){
+  var bar=document.querySelector('[data-buybar]');
+  if(!bar||!('IntersectionObserver' in window))return;
+  var ctas=document.querySelectorAll('.bp-ctas');
+  if(!ctas.length)return;
+  bar.hidden=false;document.body.classList.add('has-buybar');
+  var seen=new Set();
+  var io=new IntersectionObserver(function(es){
+    es.forEach(function(x){if(x.isIntersecting)seen.add(x.target);else seen.delete(x.target)});
+    bar.classList.toggle('on',seen.size===0);
+  });
+  ctas.forEach(function(c){io.observe(c)});
+})();
